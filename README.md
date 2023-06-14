@@ -2,4 +2,4 @@
 
 Course on Responsive Layout on CSS.
 
-Updated: June 12th 2023 - completed the class 2 of 5 of Mobile layout & CSS variables
+Updated: June 13th 2023 - completed the class 3 of 5 of Display Particularities.
