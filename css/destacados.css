@@ -38,3 +38,10 @@
     border-color: var(--boton-rojo);
     margin: 0 auto;
 }
+
+@media screen and (min-width: 768px){
+    .destacados__panel-imagen{
+        max-width: 80%;
+        align-items: center;
+    }
+}
